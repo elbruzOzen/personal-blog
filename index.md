@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![useful image]({{baseurl}}/assets/elbruz.jpeg){:class="img-responsive" width="250px" style="float: left; margin-right: 18px;"}
+![useful image]({{base.url}}/assets/elbruz.jpeg){:class="img-responsive" width="250px" style="float: left; margin-right: 18px;"}
 
 I am a second year PhD. Student in University of California, San Diego - Computer Science and Engineering Department. My research interests are configurable and low-power computer architecture, hardware security, VLSI testing, non-volatile memory, and digital circuit design.
 
