@@ -16,7 +16,7 @@
 title: Elbruz Ozen - Ph.D. Student
 email: elbruz.ozen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal blog and my academic website!
+  Welcome to my personal blog and academic website!
 baseurl: "/personal-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
